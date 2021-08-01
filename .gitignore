@@ -1,0 +1,5 @@
+.jekyll-cache
+.DS_Store
+*.plb
+_site/
+_Gemfile

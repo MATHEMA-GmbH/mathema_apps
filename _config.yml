@@ -1,0 +1,8 @@
+theme: minima
+title: MATHEMA Apps
+description: Open Source Apps für Android und iOS
+email: mobile@mathema.de
+author: MATHEMA GmbH
+header_pages:
+  - datenschutz.md
+  - impressum.md
