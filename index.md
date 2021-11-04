@@ -9,7 +9,7 @@ layout: home
 <table style="width: 100%; border: none">
 
 <tr style="background: transparent">
-<td style="border: none"><img src="assets/privacyblur.png" style="padding: 10px"/></td><td style="border: none">Mit <a href="https://privacyblur.app/">PrivacyBlur</a> können Sie Bereiche Ihrer Fotos verpixeln. Das ist praktisch, wenn Sie Urlaubsfotos in sozialen Medien teilen, aber die Privatsphäre Ihrer Familie schützen möchten.</td>
+<td style="border: none"><img src="assets/privacyblur.png" style="width=96px; padding: 10px"/></td><td style="border: none">Mit <a href="https://privacyblur.app/">PrivacyBlur</a> können Sie Bereiche Ihrer Fotos verpixeln. Das ist praktisch, wenn Sie Urlaubsfotos in sozialen Medien teilen, aber die Privatsphäre Ihrer Familie schützen möchten.</td>
 </tr>
 
 <tr style="background: transparent">
