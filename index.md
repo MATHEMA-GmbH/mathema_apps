@@ -8,20 +8,25 @@ layout: home
 
 <table style="width: 100%; border: none">
 
+   <colgroup>
+       <col span="1" style="width: 116px">
+       <col span="1" style="width: *">
+    </colgroup>
+
 <tr style="background: transparent">
-<td style="border: none"><img src="assets/privacyblur.png" style="width=96px; padding: 10px"/></td><td style="border: none">Mit <a href="https://privacyblur.app/">PrivacyBlur</a> können Sie Bereiche Ihrer Fotos verpixeln. Das ist praktisch, wenn Sie Urlaubsfotos in sozialen Medien teilen, aber die Privatsphäre Ihrer Familie schützen möchten.</td>
+<td style="border: none"><img src="assets/privacyblur.png"/></td><td style="border: none">Mit <a href="https://privacyblur.app/">PrivacyBlur</a> können Sie Bereiche Ihrer Fotos verpixeln. Das ist praktisch, wenn Sie Urlaubsfotos in sozialen Medien teilen, aber die Privatsphäre Ihrer Familie schützen möchten.</td>
 </tr>
 
 <tr style="background: transparent">
-<td style="border: none"><img src="assets/tkweek.png" style="padding: 10px"/></td><td style="border: none"><a href="https://tkweek.app/">TKWeek</a> ist unser universelles Datums- und Kalenderwerkzeug. Ermitteln Sie für ein Datum die Kalenderwoche, addieren oder subtrahieren Sie Tage, Wochen oder Monate, und vieles mehr.</td>
+<td style="border: none"><img src="assets/tkweek.png"/></td><td style="border: none"><a href="https://tkweek.app/">TKWeek</a> ist unser universelles Datums- und Kalenderwerkzeug. Ermitteln Sie für ein Datum die Kalenderwoche, addieren oder subtrahieren Sie Tage, Wochen oder Monate, und vieles mehr.</td>
 </tr>
 
 <tr style="background: transparent">
-<td style="border: none"><img src="assets/livephotocleaner.png" style="padding: 10px"/></td><td style="border: none">Mit unserem <a href="https://livephotocleaner.app/">Live Photo Cleaner</a> entfernen die den <em>Live</em>-Anteil von Fotos, die Sie mit Ihrem iPhone oder Ihrem iPad aufgenommen haben, und sparen so wertvollen Speicherplatz.</td>
+<td style="border: none"><img src="assets/livephotocleaner.png"/></td><td style="border: none">Mit unserem <a href="https://livephotocleaner.app/">Live Photo Cleaner</a> entfernen die den <em>Live</em>-Anteil von Fotos, die Sie mit Ihrem iPhone oder Ihrem iPad aufgenommen haben, und sparen so wertvollen Speicherplatz.</td>
 </tr>
 
 <tr style="background: transparent">
-<td style="border: none"><img src="assets/plantar.png" style="padding: 10px"/></td><td style="border: none"><a href="https://github.com/MATHEMA-GmbH/PlantAR">Plant.AR</a> ist eine Augmented Reality App und wurde im Rahmen eines Praktikums erstellt. Die App ermöglicht es, virtuelle Zimmerpflanzen in der eigenen Umgebung zu platzieren, um zu sehen, ob die Pflanzen an den gewählten Stellen den Vorstellungen des Anwenders entsprechen.</td>
+<td style="border: none"><img src="assets/plantar.png"/></td><td style="border: none"><a href="https://github.com/MATHEMA-GmbH/PlantAR">Plant.AR</a> ist eine Augmented Reality App und wurde im Rahmen eines Praktikums erstellt. Die App ermöglicht es, virtuelle Zimmerpflanzen in der eigenen Umgebung zu platzieren, um zu sehen, ob die Pflanzen an den gewählten Stellen den Vorstellungen des Anwenders entsprechen.</td>
 </tr>
 
 </table>
