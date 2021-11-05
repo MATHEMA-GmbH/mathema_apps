@@ -40,3 +40,7 @@ layout: home
 <li>Wir respektieren Ihre Privatsphäre</li>
 <li>Vollständig <a href="https://github.com/MATHEMA-GmbH/">Open Source</a></li>
 </ul>
+
+## Unsere Angebote für Unternehmen
+
+Sie veranstalten Tagungen, Konferenzen, oder Seminare, und sind auf der Suche nach einer schlanken, anpassbaren, echt nativen Konferenz-App für Android und iOS? Dann ist unser [Campus Planer](./campusplaner.html) genau das Richtige.
