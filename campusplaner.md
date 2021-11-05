@@ -21,3 +21,4 @@ title: Campus Planer
 </tr>
 </table>
 
+Möchten Sie eine an Ihre CI angepasste Version des Campus Planer? Sprechen Sie uns sehr gerne an. Eine kurze [E-Mail](mailto:mobile@mathema.de) genügt.
