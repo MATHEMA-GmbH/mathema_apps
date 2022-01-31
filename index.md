@@ -18,10 +18,6 @@ layout: home
 </tr>
 
 <tr style="background: transparent">
-<td style="border: none"><img src="assets/tkweek.png"/></td><td style="border: none"><a href="https://tkweek.app/">TKWeek</a> ist unser universelles Datums- und Kalenderwerkzeug. Ermitteln Sie für ein Datum die Kalenderwoche, addieren oder subtrahieren Sie Tage, Wochen oder Monate, und vieles mehr.</td>
-</tr>
-
-<tr style="background: transparent">
 <td style="border: none"><img src="assets/livephotocleaner.png"/></td><td style="border: none">Mit unserem <a href="https://livephotocleaner.app/">Live Photo Cleaner</a> entfernen die den <em>Live</em>-Anteil von Fotos, die Sie mit Ihrem iPhone oder Ihrem iPad aufgenommen haben, und sparen so wertvollen Speicherplatz.</td>
 </tr>
 
